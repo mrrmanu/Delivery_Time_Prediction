@@ -87,6 +87,8 @@ The Food Delivery Time Prediction Model aims to estimate the time required for f
 
 • Deployed the model using Streamlit for real-time predictions. Follow the steps above to run the application.
 
+
+
 To run the deployed application, follow these steps:
 
 Install Streamlit: Ensure that Streamlit is installed. You can install it using pip: pip install streamlit
