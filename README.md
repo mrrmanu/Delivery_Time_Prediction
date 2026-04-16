@@ -6,6 +6,9 @@ The Food Delivery Time Prediction Model aims to estimate the time required for f
 
 ## Methodology
 
+<img width="1280" height="720" alt="Methodology" src="https://github.com/user-attachments/assets/49c2c167-4ae2-47e8-bda1-4c58c42a936f" />
+
+
 ## a) Data Collection
 • Gathered the food delivery dataset from the provided data source and The dataset used for this project is located in the dataset folder and includes order details, location, city, delivery person information, weather conditions, and actual delivery times.
 
@@ -62,25 +65,25 @@ The Food Delivery Time Prediction Model aims to estimate the time required for f
 
 ## Steps Followed
 
-Data Collection:
+1. Data Collection:
 
 • Gathered the food delivery dataset from the provided data source.
 
-Data Preprocessing:
+2. Data Preprocessing:
 
 • Data cleaning to handle missing values, outliers, and inconsistencies.
 
 • Feature engineering to extract relevant features.
 
-Model Development:
+3. Model Development:
 
 • Trained various regression models including Linear Regression, Decision Trees, Random Forests, and XGBoost.
 
-Model Evaluation:
+4. Model Evaluation:
 
 • Used metrics such as MSE, RMSE, and R² score to evaluate model performance.
 
-Deployment:
+5. Deployment:
 
 • Deployed the model using Streamlit for real-time predictions. Follow the steps above to run the application.
 
