@@ -109,5 +109,3 @@ Deployment
 
 • Fine-tune model parameters to potentially improve performance.
 
-Contact
-Author: Kaushik Puttaswamy
